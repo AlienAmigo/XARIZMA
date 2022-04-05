@@ -1,9 +1,62 @@
-//@font-face {
-//  font-family: Montserrat;
-//  src:
-//    url('') format('woff2'),
-//    url('') format('woff');
-//  font-weight: 300;
-//  font-style: normal;
-//  font-display: block;
-//}
+@font-face {
+  font-family: Muller;
+  src:
+    url('../fonts/MullerRegular.woff2') format('woff2'),
+    url('../fonts/MullerRegular.woff') format('woff'),
+    url('../fonts/MullerRegular.ttf') format('ttf'),
+    url('../fonts/MullerRegular.eot') format('eot');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: Muller;
+  src:
+    url('../fonts/MullerMedium.woff2') format('woff2'),
+    url('../fonts/MullerMedium.woff') format('woff'),
+    url('../fonts/MullerMedium.ttf') format('ttf'),
+    url('../fonts/MullerMedium.eot') format('eot');
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: Muller;
+  src:
+    url('../fonts/MullerBold.woff2') format('woff2'),
+    url('../fonts/MullerBold.woff') format('woff'),
+    url('../fonts/MullerBold.ttf') format('ttf'),
+    url('../fonts/MullerBold.eot') format('eot');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: Muller;
+  src:
+    url('../fonts/MullerExtraBold.woff2') format('woff2'),
+    url('../fonts/MullerExtraBold.woff') format('woff'),
+    url('../fonts/MullerExtraBold.ttf') format('ttf'),
+    url('../fonts/MullerExtraBold.eot') format('eot');
+  font-weight: 800;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: Muller;
+  src:
+    url('../fonts/MullerBlack.woff2') format('woff2'),
+    url('../fonts/MullerBlack.woff') format('woff'),
+    url('../fonts/MullerBlack.ttf') format('ttf'),
+    url('../fonts/MullerBlack.eot') format('eot');
+  font-weight: 900;
+  font-style: normal;
+  font-display: block;
+}
